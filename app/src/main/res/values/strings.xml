@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">VenadosTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_local">Venados F.C</string>
+
+    <!--Games-->
+    <string name="text_month">Mes</string>
+    <string name="text_date">Fecha</string>
+    <string name="text_day">Dia</string>
+    <string name="text_local">Local</string>
+    <string name="text_opponent">Visitante</string>
+    <string name="text_score">Score</string>
+
+    <!-- Players -->
+    <string name="text_name">Name</string>
+    <string name="text_posicion">Posicion</string>
+
+    <!-- Player-->
+    <string name="text_data_sheet">FICHA TECNICA</string>
+    <string name="text_birdth_date">Fecha de Nacimiento</string>
+    <string name="text_birdth_place">Lugar de Nacimiento</string>
+    <string name="text_width">Peso</string>
+    <string name="text_heigth">Altura</string>
+    <string name="text_last_team">Equipo Anterior</string>
+
+    <!-- Statistics-->
+    <string name="text_jj">JJ</string>
+    <string name="text_dg">DG</string>
+    <string name="text_pts">PTS</string>
+    <string name="text_table">Tabla General</string>
+    <string name="text_position">Position</string>
+    <string name="text_team">Equipo</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
